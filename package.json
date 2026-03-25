@@ -1,7 +1,7 @@
 {
   "name": "@dominooffc/dominobail",
-  "version": "10.0.3",
-  "description": "fix prefer",
+  "version": "10.0.4",
+  "description": "Baileys fix prefer, siap run tanpa install tambahan",
   "keywords": [
     "whatsapp",
     "baileys",
@@ -40,7 +40,7 @@
     "chalk": "^4.1.2",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "npm:@whiskeysockets/libsignal-node@1.0.2",
+    "libsignal-protocol": "^2.0.0",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
